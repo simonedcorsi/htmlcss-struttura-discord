@@ -92,13 +92,18 @@ border: 1px solid black;
 
 .lastcontain-flex {
     display: flex;
-    width: 500px;
-    justify-content: center;
+    align-items: center;
     flex-direction: column;
     padding-top: 100px;
 
 }
 
 .lastfigure {
-    
+    border:1px solid black;
+    height: 400px;
+    width: 900px;
+}
+
+.lastp {
+    width: 400px;
 }

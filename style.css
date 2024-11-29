@@ -71,7 +71,7 @@ border: 1px solid black;
     display: flex;
     background-color: white;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 100px;
     
 }
 
@@ -87,5 +87,18 @@ border: 1px solid black;
 
 .testo {
     border:1px solid black;
+    width: 200px;
 }
 
+.lastcontain-flex {
+    display: flex;
+    width: 500px;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 100px;
+
+}
+
+.lastfigure {
+    
+}

@@ -59,4 +59,37 @@ border: 1px solid black;
 
 .link-flex {
     display: flex;
+    padding-top: 20px;
+}
+
+
+
+.layout-flex {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+.figura {
+    border:1px solid black;
+    height: 200px;
+    width: 100px;
+}
+
+.h2 {
+    border:1px solid black;
+    height: 200px;
+    width: 100px;
+}
+
+.testo {
+    border:1px solid black;
+    height: 200px;
+    width: 100px;
+}
+
+.layout2-flex {
+display: flex;
 }

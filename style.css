@@ -20,13 +20,16 @@
     flex-direction: column;
 }
 
+.recipiente {
+    width: 700px;
+    text-align: center;
+}
+
 .title{
     border: 1px solid black;
 }
 
 .paragrafo{
-    width: 500px;
-    height: 100px;
     border: 1px solid black;
     padding: 20px;
    
@@ -80,16 +83,9 @@ border: 1px solid black;
 
 .h2 {
     border:1px solid black;
-    height: 200px;
-    width: 100px;
 }
 
 .testo {
     border:1px solid black;
-    height: 200px;
-    width: 100px;
 }
 
-.layout2-flex {
-display: flex;
-}

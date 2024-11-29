@@ -1,0 +1,35 @@
+.container-flex {
+    
+    
+}
+
+.alta-flex {
+    background-color: blue;
+    height: 50px;  
+    flex-direction: row;
+    
+}
+
+.button-flex{
+display: flex;
+justify-content: space-around;
+
+}
+
+.link1-flex{
+    display: flex;
+    align-self: flex-start;
+    
+}
+
+.link2-flex{
+    display: flex;
+    align-self: flex-end;
+    
+}
+
+
+.bassa {
+    background-color: rgb(255, 0, 0);
+    height: 350px;
+}

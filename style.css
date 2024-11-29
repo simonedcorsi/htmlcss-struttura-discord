@@ -1,9 +1,3 @@
-.container-flex {
-    
-    
-    
-}
-
 .alta-flex {
     background-color: blue;
     height: 50px;  
@@ -14,19 +8,6 @@
 
 .button{
     border: 1px solid black;
-    margin:auto
-
-}
-
-.link1{
-    border: 1px solid black;
-    margin:auto
-    
-}
-
-.link2{
-    border: 1px solid black;
-    margin:auto
 }
 
 
@@ -52,14 +33,30 @@
 }
 
 .link3 {
-display: flex;
-border: 1px solid black;
-margin: auto;
-
+ border: 1px solid black;
 }
 
 .link4 {
-display: flex;
 border: 1px solid black;
-margin: auto;
+}
+
+
+.figure {
+    background-color: orange;
+}
+
+.header-nav-col {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.header-small-col {
+    width: 20%;
+    text-align: center;
+}
+
+.link-flex {
+    display: flex;
 }

@@ -1,30 +1,31 @@
 .container-flex {
     
     
+    
 }
 
 .alta-flex {
     background-color: blue;
     height: 50px;  
-    flex-direction: row;
+    justify-content:space-between;
+    display: flex;
     
 }
 
 .button-flex{
-display: flex;
-justify-content: space-around;
+
+
 
 }
 
-.link1-flex{
-    display: flex;
-    align-self: flex-start;
+.link1{
+    
+    
     
 }
 
-.link2-flex{
-    display: flex;
-    align-self: flex-end;
+.link2{
+    
     
 }
 
